@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koti-Baddam3
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Projects with Automation
+- 💞️ I’m looking to collaborate on Projects in web development, Data Analysis, and cloud computing.
 - 📫 How to reach me https://wa.link/8bo3d3
 - 
 
